@@ -1,0 +1,60 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="Trang-1" id="_li6FLXtPa4dHnsSss5G">
+    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JjIkbG9La5BVf3LTWZLL-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="298" y="181" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JjIkbG9La5BVf3LTWZLL-3" value="start" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300.5" y="185.5" width="115" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="JjIkbG9La5BVf3LTWZLL-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JjIkbG9La5BVf3LTWZLL-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="333" y="320" as="sourcePoint" />
+            <mxPoint x="358" y="319" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JjIkbG9La5BVf3LTWZLL-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="298" y="316" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JjIkbG9La5BVf3LTWZLL-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JjIkbG9La5BVf3LTWZLL-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="356" y="456" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JjIkbG9La5BVf3LTWZLL-6" value="khai báo 2 biến a,b" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="296.5" y="316" width="119" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yv2PYrEorkYga3xVCopK-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yv2PYrEorkYga3xVCopK-1" target="yv2PYrEorkYga3xVCopK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yv2PYrEorkYga3xVCopK-1" value="khai báo biến tổng = a + b" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="298" y="456" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yv2PYrEorkYga3xVCopK-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yv2PYrEorkYga3xVCopK-2" target="yv2PYrEorkYga3xVCopK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yv2PYrEorkYga3xVCopK-2" value="khai báo biến&amp;nbsp;&lt;div&gt;hiệu = a - b&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="298" y="594" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yv2PYrEorkYga3xVCopK-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yv2PYrEorkYga3xVCopK-4" target="yv2PYrEorkYga3xVCopK-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yv2PYrEorkYga3xVCopK-4" value="Khai báo biến&amp;nbsp;&lt;div&gt;thương a/b&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="298" y="734" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yv2PYrEorkYga3xVCopK-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yv2PYrEorkYga3xVCopK-6" target="yv2PYrEorkYga3xVCopK-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yv2PYrEorkYga3xVCopK-6" value="khai báo biến&lt;div&gt;tích = a * b&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="298" y="874" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yv2PYrEorkYga3xVCopK-8" value="print biến&amp;nbsp;&lt;div&gt;tổng, hiệu, thương, tích&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="298" y="1014" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
